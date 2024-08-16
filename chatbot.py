@@ -2,6 +2,8 @@
 rules = {
     "hello": "Hello! How can I assist you today?",
     "hi": "Hi! What's on your mind?",
+    "love":"its a beautyful feeling humand mind",
+    "hate":"its a bad feeling for mind and human life",
     "how are you": "I'm doing great, thanks! How about you?",
     "what is your name": "My name is Chatty, nice to meet you!",
     "goodbye": "Goodbye! It was nice chatting with you.",
